@@ -1,0 +1,3 @@
+name: shipping_agent
+type: python
+entrypoint: agent:shipping_app
